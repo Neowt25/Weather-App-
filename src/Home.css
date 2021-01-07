@@ -1,0 +1,17 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   height:600px ;
+    width: 400px;
+    margin: auto;
+    padding:auto ;
+    background: linear-gradient(#11d8d8, #370999);
+    border-radius: 20px;
+} 
+.home__container{
+    color: white;
+}
+.home__result{
+    color: white;
+}
