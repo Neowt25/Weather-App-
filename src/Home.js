@@ -14,7 +14,7 @@ const Home = () => {
             units: '"metric" or "imperial"',
         },
         headers: {
-            'x-rapidapi-key': '15025d2992mshc08ad044b70e7fap10812ejsn7546112a70ef',
+            //'x-rapidapi-key': 'put your own API key here',
             'x-rapidapi-host': 'community-open-weather-map.p.rapidapi.com'
         }
     };
